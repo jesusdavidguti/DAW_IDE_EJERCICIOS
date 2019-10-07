@@ -10,7 +10,7 @@
 	- Código objeto.
 	- Codigo ejecutable.
 
-
+     
 
 
 
